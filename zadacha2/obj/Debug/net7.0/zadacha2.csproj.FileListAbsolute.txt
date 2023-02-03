@@ -1,0 +1,15 @@
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/bin/Debug/net7.0/zadacha2
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/bin/Debug/net7.0/zadacha2.deps.json
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/bin/Debug/net7.0/zadacha2.runtimeconfig.json
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/bin/Debug/net7.0/zadacha2.dll
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/bin/Debug/net7.0/zadacha2.pdb
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/obj/Debug/net7.0/zadacha2.csproj.AssemblyReference.cache
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/obj/Debug/net7.0/zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/obj/Debug/net7.0/zadacha2.AssemblyInfoInputs.cache
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/obj/Debug/net7.0/zadacha2.AssemblyInfo.cs
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/obj/Debug/net7.0/zadacha2.csproj.CoreCompileInputs.cache
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/obj/Debug/net7.0/zadacha2.dll
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/obj/Debug/net7.0/refint/zadacha2.dll
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/obj/Debug/net7.0/zadacha2.pdb
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/obj/Debug/net7.0/zadacha2.genruntimeconfig.cache
+/Users/renat/Desktop/Учеба/DZ/dz5/zadacha2/obj/Debug/net7.0/ref/zadacha2.dll
